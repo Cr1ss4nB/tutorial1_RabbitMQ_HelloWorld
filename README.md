@@ -107,19 +107,19 @@ Uno publica y el otro consume los mensajes.
 
 Se hizo el doccker compose up -d --build y se verifico con docker ps para verificar que el contenedor estaba corriendo y escuchando en el puerto.
 
-'/home/cr1ss4nbl/Imágenes/Capturas de pantalla/Captura desde 2025-09-26 20-52-39.png' 
+<img width="1914" height="152" alt="Captura desde 2025-09-26 20-52-39" src="https://github.com/user-attachments/assets/407238e0-16ab-472a-a674-099ee2f82d08" />
 
 ### Send.py
 
 Se manda el mensaje
 
-'/home/cr1ss4nbl/Imágenes/Capturas de pantalla/Captura desde 2025-09-26 20-52-25.png' 
+<img width="704" height="93" alt="Captura desde 2025-09-26 20-52-25" src="https://github.com/user-attachments/assets/112dd970-9438-40df-b42f-acfeb643d236" />
 
 ### Receive.py
 
 Se recibe o consume el mensaje
 
-'/home/cr1ss4nbl/Imágenes/Capturas de pantalla/Captura desde 2025-09-26 20-52-20.png' 
+<img width="704" height="93" alt="Captura desde 2025-09-26 20-52-20" src="https://github.com/user-attachments/assets/bd91a042-486b-4732-a70e-b635485f2271" />
 
 ### RabbitMQ
 
@@ -127,19 +127,18 @@ Se accede al localhost con el puerto 15672.
 
 #### Login
 
-'/home/cr1ss4nbl/Imágenes/Capturas de pantalla/Captura desde 2025-09-26 20-46-39.png' 
+<img width="856" height="311" alt="Captura desde 2025-09-26 20-46-39" src="https://github.com/user-attachments/assets/6cf535e5-de83-418a-bc0e-890b81d55dc3" />
 
 #### Menú Principal
 
-'/home/cr1ss4nbl/Imágenes/Capturas de pantalla/Captura desde 2025-09-26 20-46-56.png' 
+<img width="1918" height="927" alt="Captura desde 2025-09-26 20-46-56" src="https://github.com/user-attachments/assets/28e21559-ccd4-4d6f-8ffd-8885e80edda7" />
 
 #### Ventana de Queues
 
-'/home/cr1ss4nbl/Imágenes/Capturas de pantalla/Captura desde 2025-09-26 20-49-16.png' 
-
+<img width="1138" height="478" alt="Captura desde 2025-09-26 20-49-16" src="https://github.com/user-attachments/assets/c45a5c08-770a-4405-afad-d41c305daa4a" />
 
 ## Flujo del Sistema
 
-'/home/cr1ss4nbl/Imágenes/Capturas de pantalla/diagramaSecuencia.png' 
+<img width="648" height="472" alt="diagramaSecuencia" src="https://github.com/user-attachments/assets/012b2d93-fd96-4059-8f71-78424fc2f113" />
 
-Este diagrama fue hecho con PlantText de PlantUML.
+Este diagrama de secuencia fue hecho con PlantText de PlantUML.
