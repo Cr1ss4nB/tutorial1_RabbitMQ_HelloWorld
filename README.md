@@ -7,7 +7,7 @@ Prueba taller  del capítulo 1 del tutorial oficial de RabbitMQ utilizando Pytho
 ## Requisitos
 - Docker Compose
 - Python 3.12+
-- Librería [pika](https://pypi.org/project/pika/)
+- Librería pika
 
 ## Archivos incluidos
 - `docker-compose.yml`: configuración de RabbitMQ con plugin de administración.
@@ -53,7 +53,7 @@ puertos:
 
 ### receive.py
 
-Se conecta a RabbitMQ, escucha la cola hello y muestra los mensajes que recibe en la terminal.
+Se conecta a RabbitMQ, escucha la cola hola y muestra los mensajes que recibe en la terminal.
 
 ```
 import pika
@@ -77,7 +77,7 @@ channel.start_consuming()
 ```
 ### send.py
 
-Se conecta a RabbitMQ, declara la cola hello y envía un mensaje "Hello World!".
+Se conecta a RabbitMQ, declara la cola hola y envía un mensaje "Hola Mundo".
 
 ```
 import pika
